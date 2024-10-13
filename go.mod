@@ -1,4 +1,4 @@
-module logger
+module github.com/doptime/logger
 
 go 1.22.3
 
